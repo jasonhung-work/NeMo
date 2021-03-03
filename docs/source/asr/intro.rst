@@ -13,7 +13,7 @@ Thus, we can see the appeal of end-to-end ASR architectures: discriminative mode
 
 And the entire end-to-end ASR model can be trained at once--a much easier pipeline to handle!
 
-Speech recognition tutorials can be found under ``<NeMo_Git_root>/tutorials/asr/``
+Speech recognition tutorial notebooks can be found under ``<NeMo_Git_root>/tutorials/asr/``
 
 
 .. toctree::
